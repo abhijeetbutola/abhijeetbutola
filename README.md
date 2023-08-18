@@ -1,4 +1,12 @@
-### Hi there 👋
+#### Hey, my name is Abhijeet Butola 👋
+
+I have 3 years of experience in Data Analytics. I have a Bachelor’s degree in Computer Science.
+
+I am currently looking for new challenges to grow as a data professional.
+
+Find me on LinkedIn ➡︎ [@abhijeetbutola](https://www.linkedin.com/in/mochen862/)
+
+My Hackerrank profile ➡︎ [@abhijeetbutola](https://www.hackerrank.com/swift_abhi09?hr_r=1)
 
 <!--
 **abhijeetbutola/abhijeetbutola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
