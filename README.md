@@ -1,8 +1,8 @@
 #### Hey, my name is Abhijeet Butola 👋
 
-I have 3 years of experience in Data Analytics. I have a Bachelor’s degree in Computer Science.
+Experienced Front-End Developer. I have a Bachelor’s degree in Computer Science.
 
-I am currently looking for new challenges to grow as a data professional.
+I am currently looking for new challenges to grow as a Software Engineer.
 
 Find me on LinkedIn ➡︎ [@abhijeetbutola](https://www.linkedin.com/in/abhijeetbutola)
 
